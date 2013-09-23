@@ -18,7 +18,7 @@ public class FirstActivity extends Activity
   public ArrayList<String> undoStack = new ArrayList<String>();
   public ArrayList<String> redoStack = new ArrayList<String>();
   
-  EditText mEditText; 
+  EditText mEditText; //test
   
   @Override
   protected void onCreate(Bundle savedInstanceState)  {

@@ -12,7 +12,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="200dp"
-        android:text="@string/hello_world"
+        android:text="@string/textBoxString"
         android:id="@+id/textBox"
         android:gravity="top"
         android:inputType = "textMultiLine"/>
@@ -28,14 +28,14 @@
     <Button 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Undo"
-        android:id="@+id/myButton"/>
+        android:id="@+id/undoButton"
+        android:text="@string/undoButtonString"/>
 
     <Button 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Redo"
-        android:id="@+id/Redo"/>
+        android:id="@+id/redoButtonString"
+        android:text="@string/redoButtonString"/>
     
 
     

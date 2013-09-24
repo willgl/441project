@@ -3,6 +3,8 @@
 
     <string name="app_name">Testing123-9-15-2013</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="textBoxString">[Please type your text here]</string>
+    <string name="undoButtonString">This is the undo button @string</string>
+    <string name="redoButtonString">This is the redo button @string</string>
 
 </resources>

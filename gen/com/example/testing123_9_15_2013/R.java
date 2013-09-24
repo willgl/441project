@@ -183,15 +183,15 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020019;
     }
     public static final class id {
-        public static final int Redo=0x7f050007;
         public static final int action_settings=0x7f050008;
         public static final int hybrid=0x7f050004;
-        public static final int myButton=0x7f050006;
         public static final int none=0x7f050000;
         public static final int normal=0x7f050001;
+        public static final int redoButtonString=0x7f050007;
         public static final int satellite=0x7f050002;
         public static final int terrain=0x7f050003;
         public static final int textBox=0x7f050005;
+        public static final int undoButton=0x7f050006;
     }
     public static final class layout {
         public static final int activity_first=0x7f030000;
@@ -282,7 +282,10 @@ containing a value of this type.
         public static final int common_signin_button_text_long=0x7f06000e;
         public static final int hello_world=0x7f060016;
         public static final int menu_settings=0x7f060017;
+        public static final int redoButtonString=0x7f06001d;
+        public static final int textBoxString=0x7f06001b;
         public static final int title_activity_main=0x7f060018;
+        public static final int undoButtonString=0x7f06001c;
         public static final int url=0x7f060019;
     }
     public static final class style {
